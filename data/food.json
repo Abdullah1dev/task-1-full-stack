@@ -1,0 +1,10 @@
+[
+  {"id": 1, "name": "Zinger Burger", "price": 450, "category": "Burger"},
+  {"id": 2, "name": "Chicken Pizza", "price": 1200, "category": "Pizza"},
+  {"id": 3, "name": "Beef Burger", "price": 550, "category": "Burger"},
+  {"id": 4, "name": "French Fries", "price": 250, "category": "Fast Food"},
+  {"id": 5, "name": "Chicken Roll", "price": 300, "category": "Fast Food"},
+  {"id": 6, "name": "Sandwich", "price": 350, "category": "Snacks"},
+  {"id": 7, "name": "Cold Drink", "price": 100, "category": "Drinks"},
+  {"id": 8, "name": "Pasta", "price": 600, "category": "Fast Food"}
+]

@@ -1,0 +1,36 @@
+body {
+    background-color: #f8f9fa;
+    font-family: Arial, sans-serif;
+}
+
+.hero {
+    background: linear-gradient(120deg, #e85d04, #f48c06);
+}
+
+.food-card {
+    height: 100%;
+    transition: 0.2s;
+}
+
+.food-card:hover {
+    transform: translateY(-4px);
+}
+
+.food-card .card-body {
+    display: flex;
+    flex-direction: column;
+}
+
+.food-card .btn {
+    margin-top: auto;
+}
+
+#cart {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+footer {
+    margin-top: 40px;
+}
