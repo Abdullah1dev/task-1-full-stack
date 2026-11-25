@@ -1,1 +1,24 @@
-[]
+[
+  {
+    "id": 1795612925896,
+    "name": "Abdullah",
+    "phone": "03296882616",
+    "address": "Dr Ameer wali Gali main Bazar lodhran",
+    "items": [
+      {
+        "id": 1,
+        "name": "Zinger Burger",
+        "price": 450,
+        "quantity": 1
+      },
+      {
+        "id": 2,
+        "name": "Chicken Pizza",
+        "price": 1200,
+        "quantity": 1
+      }
+    ],
+    "total": 1650,
+    "date": "11/25/2026, 6:22:05 PM"
+  }
+]
